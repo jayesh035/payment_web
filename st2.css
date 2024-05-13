@@ -1,0 +1,29 @@
+.box
+{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    height: 116px;
+}
+.box nav li
+{
+    list-style: none;
+}
+.box
+{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    
+}
+.bank
+{
+    display: flex;
+    align-items: center;
+    height: 116px;
+    border-top: 2px solid white;
+}
+.main-box
+{
+    margin-top: 60px;
+    border: 2px solid white;
+}
