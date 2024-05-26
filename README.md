@@ -5,7 +5,9 @@ Installation
 XAMPP installed in your device.
 
 steps:
+
 1.Start XAMPP and ensure Apache and MySQL services are running.
+
 2.Create a database:
   Open your browser and go to http://localhost/phpmyadmin. Create a new database (e.g., payment_db).
 
